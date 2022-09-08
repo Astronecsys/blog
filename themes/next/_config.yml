@@ -996,3 +996,9 @@ vendors:
 css: css
 js: js
 images: images
+
+#自动形成摘要
+auto_excerpt:
+  enable: true
+  length: 150
+  
