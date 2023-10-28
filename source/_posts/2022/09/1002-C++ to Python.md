@@ -1,7 +1,7 @@
 ---
 title: 1002-C++ to Python
 mathjax: true
-date: 2023-09-01 00:00:00
+date: 2022-09-01 00:00:00
 tags:
 ---
 # 1002-C++ to Python
