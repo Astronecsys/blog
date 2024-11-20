@@ -2,12 +2,14 @@
 title: Space SHMUP 拆解和拓展
 mathjax: true
 date: 2024-11-19 19:56:54
+description: 我在学习 Introduction to Game Design, Prototyping, and Development 过程中做了项目Space SHMUP, 本文记述了我在对该项目的理解, 使用UML对系统进行拆解, 更深刻地体会了游戏的运行过程, 在最后我还对该项目做了一点扩展. 
 tags:
 --- 
 
 # 游戏内容分析
 
 SHMUP （Shoot 'em up），又称STG，即清版射击游戏, 是一种游戏类型，通常以玩家控制飞行器或角色为基础，目标是消灭敌人并躲避子弹和障碍物。SHMUP游戏通常具有快节奏的动作、丰富的视觉效果和多样化的武器系统。
+
 
 ![image.png](image.png)
 
