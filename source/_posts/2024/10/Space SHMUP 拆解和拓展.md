@@ -1,4 +1,9 @@
-# Space SHMUP 拆解和拓展
+---
+title: Space SHMUP 拆解和拓展
+mathjax: true
+date: 2024-11-19 19:56:54
+tags:
+--- 
 
 # 游戏内容分析
 
