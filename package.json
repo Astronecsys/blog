@@ -10,10 +10,10 @@
     "netlify": "npm run clean && npm run build"
   },
   "hexo": {
-    "version": "5.4.2"
+    "version": "7.3.0"
   },
   "dependencies": {
-    "hexo": "^5.0.0",
+    "hexo": "^7.3.0",
     "hexo-filter-mermaid-diagrams": "^1.0.5",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
